@@ -2,7 +2,7 @@ package com.evergent.java.project;
 
 import java.util.Scanner;
 
-public class Careergrasp 
+public class CareerGrasp 
 {
 	enum MainModule 
 	{
